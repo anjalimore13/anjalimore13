@@ -1,6 +1,12 @@
-#include<stdio.h>
-void main ()
-printf("Happy Diwali");
+#include<stdio.h> 
+int main ()
+int=1;
+do{
+ptintf("%d\n",i);
+i++;}
+while(i<=5);
+return 0;}
+
 
 
   
